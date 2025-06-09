@@ -1,0 +1,2 @@
+C:\Users\Tecsup\SeriousGames_LAB13\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Tecsup\SeriousGames_LAB13\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
